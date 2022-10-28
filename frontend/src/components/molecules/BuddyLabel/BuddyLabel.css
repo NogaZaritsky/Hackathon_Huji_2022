@@ -1,0 +1,15 @@
+.label  {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: end;
+  /* border-bottom: 1px solid #ff0000; */
+  align-items: flex-start;
+}
+.list-label{
+  width: 60%;
+  max-width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: flex-end;
+}

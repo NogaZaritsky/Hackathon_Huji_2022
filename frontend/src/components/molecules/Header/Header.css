@@ -1,0 +1,16 @@
+.header {
+  border-radius: 100%;
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid #f9f9f9;
+  align-items: center;
+  width: 50px;
+  background-color: #efefef;
+
+}
+
+.header__logo {
+  height: 30px;
+  width: 300px;
+  object-fit: contain;
+}
